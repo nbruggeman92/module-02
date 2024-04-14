@@ -25,7 +25,7 @@ Navigate to the provided URLS to view my project.
 ![picture3](/assets/images/secondprojectscreenshot3.jpg)
 ![picture4](/assets/images/secondprojectscreenshot4.jpg)
 
-Live Link: 
+Live Link: https://nbruggeman92.github.io/my-professional-portfolio/
 
 ## License
 
