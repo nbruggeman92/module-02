@@ -22,6 +22,14 @@ body {
     color: black;
     background-color: olivedrab;
     text-decoration: none;
+    text-shadow: 0 2px 2px #dfdfdf, 
+      -3px 3px 1px #b8b8b8, 
+      -3px 3px 0px #979797, 
+      -3px 3px 0px #747474,
+      -3px 3px 0px #565656,
+      -3px 3px 0px #343434,
+      -3px 3px 0px #171717,
+      -3px 3px 0px #000;
 }
 
 #pic1 {
@@ -59,33 +67,37 @@ body {
 #pic2 {
     max-width: 20%;
     height: auto;
-    box-shadow: 10px 10px;
+    box-shadow: 5px 5px olivedrab;
     border-radius: 10px;
     margin-top: -25px;
+    border: 2px solid black;
 }
 
 #pic3 {
     max-width: 15%;
     height: auto;
-    box-shadow: 10px 10px;
+    box-shadow: 5px 5px olivedrab;
     border-radius: 10px;
     margin-top: -25px;
+    border: 2px solid black;
 }
 
 #pic4 {
     max-width: 15%;
     height: auto;
-    box-shadow: 10px 10px;
+    box-shadow: 5px 5px olivedrab;
     border-radius: 10px;
     margin-top: -25px;
+    border: 2px solid black;
 }
 
 #pic5 {
     max-width: 15%;
     height: auto;
-    box-shadow: 10px 10px;
+    box-shadow: 5px 5px olivedrab;
     border-radius: 10px;
     margin-top: -25px;
+    border: 2px solid black;
 }
 .section2 {
     text-align: center;

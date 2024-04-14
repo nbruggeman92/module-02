@@ -12,7 +12,20 @@ module-02-challenge
 
 ## Installation
 
-Navigate to my Github repo pages to view my project or click on the provided links.
+Navigate to the provided URLS to view my project.
+
+## Technology Used
+
+-HTML/CSS
+
+## Usage
+
+![picture1](/assets/images/secondprojectscreenshot1.jpg)
+![picture2](/assets/images/secondprojectscreenshot2.jpg)
+![picture3](/assets/images/secondprojectscreenshot3.jpg)
+![picture4](/assets/images/secondprojectscreenshot4.jpg)
+
+Live Link: 
 
 ## License
 
