@@ -1,7 +1,4 @@
-# module-02
-module-02-challenge
-
-# Module-02-Challenge
+# my-professional-portfolio
 
 ## Description
 
