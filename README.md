@@ -17,10 +17,10 @@ Navigate to the provided URLS to view my project.
 
 ## Usage
 
-![picture1](/assets/images/secondprojectscreenshot1.jpg)
-![picture2](/assets/images/secondprojectscreenshot2.jpg)
-![picture3](/assets/images/secondprojectscreenshot3.jpg)
-![picture4](/assets/images/secondprojectscreenshot4.jpg)
+![picture1](/assets/images/project2pic1re.jpg)
+![picture2](/assets/images/project2pic2re.jpg)
+![picture3](/assets/images/project2pic3re.jpg)
+![picture4](/assets/images/project2pic4re.jpg)
 
 Live Link: https://nbruggeman92.github.io/my-professional-portfolio/
 
