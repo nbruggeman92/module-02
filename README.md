@@ -18,7 +18,7 @@ Navigate to the provided URLS to view my project.
 ## Usage
 
 ![picture1](/assets/images/project2pic1re.jpg)
-![picture2](/assets/images/project2pic2re.jpg)
+![picture2](/assets/images/project2pic2re2.jpg)
 ![picture3](/assets/images/project2pic3re.jpg)
 ![picture4](/assets/images/project2pic4re.jpg)
 
